@@ -1,0 +1,19 @@
+<project 
+	xmlns="http://maven.apache.org/POM/4.0.0" 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 
+		http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>ravi80558055.maven</groupId>
+  <artifactId>maven-quick-start</artifactId>
+  <version>1.0</version>
+</project>
+
+<!--
+groupId -> It is similar to package name in projects.
+		-> It follows revers naming convention
+		-> eg.- path: cts/com/
+				groupId: com.cts
+				
+artifactId -> It is name of the individual artifacts(.jar files)
+-->
